@@ -1,4 +1,4 @@
-package sort.frequency;
+package leetcode.sort.frequency;
 
 import java.util.Arrays;
 import java.util.HashMap;
